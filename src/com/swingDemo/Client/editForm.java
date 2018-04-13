@@ -20,6 +20,8 @@ import java.sql.Date;
 import java.awt.event.ActionEvent;
 
 public class editForm extends JFrame {
+	
+	//edit form
 
 	private JPanel contentPane;
 	private JLabel lblName;
